@@ -1,0 +1,19 @@
+딥러닝 기반의 반려견 감정 판단 기법에 관한 연구의 한계
+- 짖거나 소리를 내야만 분석 가능
+
+
+ai -hub의 라벨
+1. bodylower
+2. bodystratch
+3. bodyshake
+4. feetup
+5. footup
+6. heading
+7. lying
+8. mounting
+9. sit
+10. taling
+11. taillow
+12. turn
+13. walkrun
+
